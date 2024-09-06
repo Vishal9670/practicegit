@@ -1,1 +1,1 @@
- practising git hub  
+ practicing git hub  
